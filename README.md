@@ -5,6 +5,7 @@
 <p align="center">
   <img src="docs/screenshots/login.png" alt="صفحه ورود" width="280" />
   <img src="docs/screenshots/register.png" alt="صفحه ثبت‌نام" width="280" />
+  <img src="docs/screenshots/home.png" alt="صفحه خانه" width="280" />
 </p>
 
 <p align="center">
