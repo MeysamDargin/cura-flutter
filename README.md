@@ -2,15 +2,24 @@
 
 دستیار هوشمند با رابط تیره و شیشه‌ای، برای گفتگو، مرور تاریخچه و فضای آرامش. Cura روی Flutter ساخته شده و احراز هویت، پروفایل و تاریخچه مکالمه را با Supabase نگه می‌دارد.
 
-<p align="center">
-  <img src="docs/screenshots/login.png" alt="صفحه ورود" width="280" />
-  <img src="docs/screenshots/register.png" alt="صفحه ثبت‌نام" width="280" />
-  <img src="docs/screenshots/home.png" alt="صفحه خانه" width="280" />
-</p>
-
-<p align="center">
-  ورود و ثبت‌نام
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="docs/screenshots/login.png" alt="صفحه ورود" width="240" />
+    </td>
+    <td align="center">
+      <img src="docs/screenshots/register.png" alt="صفحه ثبت‌نام" width="240" />
+    </td>
+    <td align="center">
+      <img src="docs/screenshots/home.png" alt="صفحه خانه" width="240" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>ورود</b></td>
+    <td align="center"><b>ثبت‌نام</b></td>
+    <td align="center"><b>خانه</b></td>
+  </tr>
+</table>
 
 ## امکانات
 
